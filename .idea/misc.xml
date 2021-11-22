@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/drawable/ic_grid_layout.xml" value="0.20555555555555555" />
         <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/drawable/ic_linear_layout.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/layout/activity_detail.xml" value="0.209375" />
+        <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.209375" />
+        <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.1953125" />
         <entry key="..\:/Users/chahi/Downloads/Words/app/src/main/res/menu/layout_menu.xml" value="0.25" />
       </map>
     </option>
